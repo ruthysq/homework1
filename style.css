@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+  font-size: 70px;
+  font-style: normal;
+  font-family: courier;
+  font-weight: lighter;}
+
+h2 {
+  text-align:center;
+  font-size: 25px;
+  font-style: normal;
+  font-family: helvetica;
+  font-weight: lighter;}
+
+
+body{
+           background: url("http://subtlepatterns.com/patterns/cloth_alike.png") repeat scroll 0% 0% transparent;
+         }
+
+
+  div.img {
+
+      margin: 5px;
+      padding: 1px;
+      border: 2px solid black;
+      height: auto;
+      width: auto;
+      float: left;kk
+      text-align: center;
+      font-family: courier;
+  }
+
+  div.img img {
+      display: inline;
+      margin: 5px;
+      border: 2px solid black;
+      font-family: courier;
+
+  }
+
+  div.img a:hover img {
+      border: 2px solid black;
+      font-family: courier;
+
+
+  }
+
+  div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
